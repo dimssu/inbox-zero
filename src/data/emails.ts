@@ -337,8 +337,8 @@ export const emails: Email[] = [
     senderId: "p-023",
     subject: "Newsletter — Last Week in AI #142",
     snippet:
-      "This week: GPT-5 router changes, Anthropic's new tools spec, and why agentic coding eval scores are converging.",
-    body: "This week: GPT-5 router changes, Anthropic's new tools spec, and why agentic coding eval scores are converging.\n\nRead online →",
+      "This week: open-weights model trends, the new tool-spec convergence, and why agentic coding eval scores keep climbing.",
+    body: "This week: open-weights model trends, the new tool-spec convergence, and why agentic coding eval scores keep climbing.\n\nRead online →",
     time: "Fri",
     lane: "newsletter",
     suggestedAction: "archive",
